@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:87:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:132:6:StartBalanceTask	2
+../Core/Src/freertos.c:186:6:StartnRF24Task	1

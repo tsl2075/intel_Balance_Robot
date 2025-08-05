@@ -1,0 +1,5 @@
+../Core/Src/mpu6050.c:10:6:MPU6050_Calibrate_Gyro	32	static
+../Core/Src/mpu6050.c:24:6:MPU6050_Init	32	static
+../Core/Src/mpu6050.c:50:6:MPU6050_Read_Accel	64	static
+../Core/Src/mpu6050.c:76:6:MPU6050_Read_Gyro	64	static
+../Core/Src/mpu6050.c:107:6:MPU6050_Calculate_PitchRoll	32	static
