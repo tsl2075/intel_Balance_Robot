@@ -1,2 +1,0 @@
-../Core/Src/pid.c:21:7:Complementary_PID	40	static
-../Core/Src/pid.c:60:6:PID_Reset	4	static
